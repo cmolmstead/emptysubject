@@ -242,6 +242,35 @@ samp {
   font-size: 24px;
 }
 
+.mediaimg {
+  height: 40%;
+  width: 40%;
+  margin: 3%;
+}
+
+.mediavid {
+  width: 525px;
+  height: 394px;
+  vertical-align: middle;
+  frameBorder: 0;
+}
+
+.mediabox {
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* Sidebar */
 .sidebar {
