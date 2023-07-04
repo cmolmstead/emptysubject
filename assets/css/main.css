@@ -218,9 +218,10 @@ samp {
 }
 
 .mynavlink {
-  text-color: dimgray;
+  text-color: white;
   margin: 0px;
-  opacity: .4;
+  opacity: .7;
+  font-family: gill sans mt;
 }
 
 
